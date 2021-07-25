@@ -1,8 +1,12 @@
 [
   {
-    "provincia": "AZUAY"
+    "provincia": "AZUAY",
+    "ciudades" : ["hola1",
+                  "hola2"]
   },
   {
-    "provincia": "BOLIVAR"
+    "provincia": "BOLIVAR",
+    "ciudades" : ["hola1",
+                  "hola2"]
   }
 ]
